@@ -13,9 +13,23 @@ The imaging technique inspiring for my assignment is from Tanya Schultz, also kn
 
 
 ## Part 2: Coding Technique Exploration
-According to recent research, potential coding technique that could assist in implementing the imaging style in part 1 is from JavaScript package Paper.js. Functions in this package contribute to create the squeezing sensation after the collision of patterns and provide animation as well. The following is an example of [Paper.js](http://paperjs.org/examples/candy-crash/).
+According to recent research, potential coding techniques that could assist in implementing the imaging style in part 1 are from JavaScript packages [p5.js](https://p5js.org/) and [Paper.js](http://paperjs.org/).
+
+In p5.js, function [Spring](https://p5js.org/examples/simulate-spring.html) can be used to create the reactions between patterns; function [Storing input](https://p5js.org/examples/input-storing-input.html) is able to be used for mouse tracking and interactions with patterns; function [Orbit Control](https://p5js.org/examples/3d-orbit-control.html) can be used to create 3D views. 
+
+In Paper.js, functions in this package contribute to create the squeezing sensation after the collision of patterns and provide animation as well.
+
+![sping](image-3.png)
+
+*Example of Spring in p5.js*
+
+
+![storing Input](image-4.png)
+
+*Example of Storing Input in p5.js*
+
 
 ![paper.js demo](image-2.png)
-*Example from Paper.js*
 
+*Example from Paper.js*
 
