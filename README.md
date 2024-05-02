@@ -5,8 +5,10 @@ The imaging technique inspiring for my assignment is from Tanya Schultz, also kn
 
 ![Tanya Schultz artwork: Kew Gardens](image.png)
 
-*Italic Text* Tanya Schultz artwork: Kew Gardens
+*Tanya Schultz artwork: Kew Gardens*
 
 ![Tanya Schultz artwork: Galeria Libertad](image-1.png)
 
-*Italic Text* Tanya Schultz artwork: Galeria Libertad
+*Tanya Schultz artwork: Galeria Libertad*
+
+
