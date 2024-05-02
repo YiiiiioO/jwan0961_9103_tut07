@@ -32,4 +32,3 @@ In Paper.js, functions in this package contribute to create the squeezing sensat
 ![paper.js demo](image-2.png)
 
 *Example from Paper.js*
-
