@@ -13,9 +13,7 @@ The imaging technique inspiring for my assignment is from Tanya Schultz, also kn
 
 
 ## Part 2: Coding Technique Exploration
-According to research results, some potential coding techniques are from JavaScript package paper.js. Functions in this package contribute to create the squeezing sensation after the collision of patterns and provide animation as well. The following is an example of Paper.js. 
-
-[Paper.js](http://paperjs.org/examples/candy-crash/)
+According to recent research, potential coding technique that could assist in implementing the imaging style in part 1 is from JavaScript package Paper.js. Functions in this package contribute to create the squeezing sensation after the collision of patterns and provide animation as well. The following is an example of [Paper.js](http://paperjs.org/examples/candy-crash/).
 
 ![paper.js demo](image-2.png)
 *Example from Paper.js*
